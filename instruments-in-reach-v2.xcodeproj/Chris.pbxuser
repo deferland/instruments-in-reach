@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Instruments in Reach */ = {
+		activeExec = 0;
+		executables = (
+			8335643A0EB737390053E886 /* Instruments in Reach */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8335643A0EB737390053E886 /* Instruments in Reach */;
+		activeSDKPreference = iphonesimulator2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Instruments in Reach */;
+		breakpoints = (
+		);
+		codeSenseManager = 833565FD0EB7375B0053E886 /* Code sense */;
+		executables = (
+			8335643A0EB737390053E886 /* Instruments in Reach */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1320,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 271262466;
+			PBXWorkspaceStateSaveDate = 271262466;
+		};
+		perUserProjectItems = {
+			838EB0040F9CCEE400F626C2 /* PBXTextBookmark */ = 838EB0040F9CCEE400F626C2 /* PBXTextBookmark */;
+			83F56595102B233A00C85B67 /* PBXTextBookmark */ = 83F56595102B233A00C85B67 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 833565FC0EB7375B0053E886 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8335643A0EB737390053E886 /* Instruments in Reach */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Instruments in Reach";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	833565FC0EB7375B0053E886 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	833565FD0EB7375B0053E886 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	838EB0040F9CCEE400F626C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E7CF44640E9D2B3A00D08FC4 /* NotesView.m */;
+		name = "NotesView.m: 485";
+		rLen = 0;
+		rLoc = 19959;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 19782;
+	};
+	83F56595102B233A00C85B67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E7CF44640E9D2B3A00D08FC4 /* NotesView.m */;
+		name = "NotesView.m: 485";
+		rLen = 0;
+		rLoc = 19959;
+		rType = 0;
+		vrLen = 967;
+		vrLoc = 19411;
+	};
+	E7CF44640E9D2B3A00D08FC4 /* NotesView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 9200}}";
+			sepNavSelRange = "{19959, 0}";
+			sepNavVisRange = "{19411, 967}";
+		};
+	};
+}

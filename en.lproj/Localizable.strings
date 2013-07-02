@@ -1,0 +1,40 @@
+"PageOneTitle" = "Flute";
+"PageOneExplain" = "Flute Instrument View";
+
+"PageTwoTitle" = "Clarinet";
+"PageTwoExplain" = "Clarinet Instrument View";
+
+"PageThreeTitle" = "Oboe";
+"PageThreeExplain" = "Oboe Instrument View";
+
+"PageFourTitle" = "Bassoon";
+"PageFourExplain" = "Bassoon Instrument View";
+
+"PageFiveTitle" = "Saxophone";
+"PageFiveExplain" = "Saxophone Instrument View";
+
+"PageSixTitle" = "Trumpet (bar tc)";
+"PageSixExplain" = "Trumpet Instrument View";
+
+"PageSevenTitle" = "Horn";
+"PageSevenExplain" = "Horn Instrument View";
+
+"PageEightTitle" = "Trombone";
+"PageEightExplain" = "Trombone Instrument View";
+
+"PageNineTitle" = "Baritone";
+"PageNineExplain" = "Baritone Instrument View";
+
+"PageTenTitle" = "Tuba";
+"PageTenExplain" = "Tuba Instrument View";
+
+"PageAboutTitle" = "About";
+"PageAboutExplain" = "About IiR products";
+
+"AddTitle" = "Add";
+"StyleTitle" = "Style";
+
+"DefaultTitle" = "Default";
+"BlackOpaqueTitle" = "Black-Op";
+"BlackTranslucentTitle" = "Black-Trans";
+"RedTitleTitle" = "Red";
